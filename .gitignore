@@ -13,3 +13,10 @@ results
 
 npm-debug.log
 node_modules
+
+/build/Release
+
+/build/binding.sln
+/build/config.gypi
+/build/mt19937.vcxproj
+/build/mt19937.vcxproj.filters
